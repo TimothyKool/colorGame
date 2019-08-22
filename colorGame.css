@@ -52,6 +52,11 @@ h1 {
     background-color: steelblue;
 }
 
+.selected2 {
+    color: white;
+    background-color: #232323;
+}
+
 button {
     border: none;
     background-color: none;
@@ -67,7 +72,12 @@ button {
     outline: none;
 }
 
-button:hover {
+.mode:hover {
     color: white;
-    background: steelblue;
+    background-color: steelblue;
+}
+
+.mode2:hover {
+    color: white;
+    background-color: #232323;
 }
